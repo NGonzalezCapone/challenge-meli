@@ -1,4 +1,4 @@
-from main import *
+from handleFiles import *
 import pytest
 
 class_instance=HandleFiles()
